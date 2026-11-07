@@ -12,3 +12,18 @@ th, td{
     background-color: rgb(241 182 182);
     color: rgb(99 5 6);
 }
+
+.confirmed{
+    background-color: rgba(0, 128, 0, 0.65);
+}
+
+.seated{
+    background-color: rgba(0, 0, 255, 0.65);
+}
+
+.pending{
+    background-color: rgba(255, 255, 0, 0.65);
+}
+.cancelled{
+    background-color: rgba(255, 0, 0, 0.65);
+}
