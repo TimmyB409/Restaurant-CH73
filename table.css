@@ -1,0 +1,14 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 5px;
+    text-align: center;
+}
+
+.error {
+    background-color: rgb(241 182 182);
+    color: rgb(99 5 6);
+}
